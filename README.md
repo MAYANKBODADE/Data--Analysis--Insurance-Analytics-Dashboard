@@ -2,3 +2,6 @@
 Insurance Analytics Dashboard Analyzed and visualized insurance sales data using SQL, Python, Power BI, and Tableau. Built interactive dashboards to track KPIs like invoice volumes, renewal rates, and sales funnel performance. Delivered insights to optimize sales strategy, improve tracking, and support data-driven decisions.
 ## Project Objective
 The objective of this Insurance Analytics project was to analyze and visualize insurance sales and performance data to identify key business trends, optimize sales strategies, and support data-driven decision-making. By leveraging tools like SQL, Python, Power BI, and Tableau, the goal was to create interactive dashboards and reports that provide stakeholders with real-time insights into KPIs such as policy renewals, invoice volumes, cross-sell performance, and revenue funnel effectiveness—ultimately enhancing operational efficiency and business growth.
+
+## DataSet Used 
+- <a href="https://github.com/MAYANKBODADE/Data--Analysis--Insurance-Analytics-Dashboard/blob/main/Insuarance%20project011111.xlsx">Dataset</a>
