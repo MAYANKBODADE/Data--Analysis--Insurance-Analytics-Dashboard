@@ -42,3 +42,10 @@ The objective of this Insurance Analytics project was to analyze and visualize i
 
 ## Dashboard 
 - <a href="https://github.com/MAYANKBODADE/Data--Analysis--Insurance-Analytics-Dashboard/blob/main/Screenshot%202025-02-18%20084835.png">view Dashboard
+
+## Project Insight
+This project revealed that Account Executives with higher meeting counts and consistent follow-ups tended to generate more invoices and achieve better cross-sell and renewal rates. However, several high-value opportunities remained stuck in early funnel stages, indicating a need for process optimization. The dashboards helped identify performance gaps, align targets with actuals, and support strategic actions for improving sales efficiency and client retention.
+
+
+## Final Conclusion
+This dashboard turned complex insurance data into actionable insights, helping improve sales performance, track KPIs, and support data-driven decisions. It highlights the impact of analytics in boosting efficiency and business growth.
