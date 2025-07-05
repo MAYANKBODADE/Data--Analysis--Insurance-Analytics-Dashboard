@@ -49,3 +49,5 @@ This project revealed that Account Executives with higher meeting counts and con
 
 ## Final Conclusion
 This dashboard turned complex insurance data into actionable insights, helping improve sales performance, track KPIs, and support data-driven decisions. It highlights the impact of analytics in boosting efficiency and business growth.
+
+![Dashboard of insurance analyst project](https://github.com/user-attachments/assets/bc62e16e-8afa-43d3-9e26-0ec3a4cda8f6)
